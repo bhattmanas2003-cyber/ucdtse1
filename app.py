@@ -1,9 +1,3 @@
-Code DTSE
-
-
-Shruti Nagendra Kumar
-​
-Manas Sanjay Bhatt​
 # app.py
 # -*- coding: utf-8 -*-
 """
